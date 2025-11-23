@@ -7,7 +7,7 @@ import checkout
 
 st.set_page_config(page_title="Marble Baker", layout="wide")
 
-logo_path = r"C:\Users\USER\Downloads\لوجو.png"
+logo_path = r"C:\Users\USER\Downloads\sdk\لوجو.png"
 logo = Image.open(logo_path)
 
 marble_baker = Bakery()
